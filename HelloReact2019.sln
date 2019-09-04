@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloReact2019", "HelloReact2019\HelloReact2019.csproj", "{57B2DF4F-CB8C-4320-B8AE-A024185EACBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B2DF4F-CB8C-4320-B8AE-A024185EACBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B2DF4F-CB8C-4320-B8AE-A024185EACBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B2DF4F-CB8C-4320-B8AE-A024185EACBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B2DF4F-CB8C-4320-B8AE-A024185EACBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C99C867-AE08-4F65-90DF-BE05FC088A3C}
+	EndGlobalSection
+EndGlobal
